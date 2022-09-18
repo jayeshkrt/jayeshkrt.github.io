@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started
 category: meta
-tags: meta, discussion
+tags: meta discussion
 ---
 
 # How to Use The 2 Minute Codes?
