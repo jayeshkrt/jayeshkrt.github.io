@@ -4,6 +4,8 @@ title: Getting Started
 category: meta
 tags: meta discussion
 ---
+{% include google-analytics.html %}
+
 
 # How to Use The 2 Minute Codes?
 
