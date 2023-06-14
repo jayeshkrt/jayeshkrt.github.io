@@ -4,6 +4,7 @@ date: 2022-09-17 11:40:00
 tags: input graph competitive_programming CP python beginner
 category: graph
 ---
+{% include google-analytics.html %}
 
 # How to take an input of Graph in Python for Competitve Programming (CP) problems?
 
